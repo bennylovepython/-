@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Beat Boss</string>
+    <string name="title_activity_main">Beat Boss</string>
+    <string name="package_name">com.beat.boss</string>
+    <string name="custom_url_scheme">com.beat.boss</string>
+</resources>
